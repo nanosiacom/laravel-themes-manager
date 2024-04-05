@@ -7,14 +7,14 @@
     <a href="https://packagist.org/packages/hexadog/laravel-themes-manager">
         <img src="https://poser.pugx.org/hexadog/laravel-themes-manager/downloads" alt="Total Downloads">
     </a>
-    <a href="https://packagist.org/packages/hexadog/laravel-themes-manager">
+    <a href="https://packagist.org/packages/nanosiacom/laravel-themes-manager">
         <img src="https://poser.pugx.org/hexadog/laravel-themes-manager/license" alt="License">
     </a>
 </p>
 
 <!-- omit in toc -->
 ## Introduction
-<code>hexadog/laravel-themes-manager</code> is a Laravel package which was created to let you developing multi-themes Laravel application.
+<code>nanosiacom/laravel-themes-manager</code> is a Laravel package which was created to let you developing multi-themes Laravel application.
 
 <!-- omit in toc -->
 ## Installation
@@ -22,7 +22,7 @@ This package requires PHP 7.4 and Laravel 7.0 or higher.
 
 To get started, install Themes Manager using Composer:
 ```shell
-composer require hexadog/laravel-themes-manager
+composer require nanosiacom/laravel-themes-manager
 ```
 
 The package will automatically register its service provider.
